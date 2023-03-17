@@ -1,6 +1,6 @@
 ## ADHD-diagnosis-fmri
 
-Attention Deficit/Hyperactivity Disorder ( is one of the most common neurodevelopmental
+Attention Deficit/Hyperactivity Disorder is one of the most common neurodevelopmental
 disorders in children.
 
 This research aims to propose different objective methods to accurately diagnose ADHD patients
