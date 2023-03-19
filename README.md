@@ -9,5 +9,5 @@ by using magnetic resonance imaging data with spatio temporal deep learning mode
 The proposed method will be to implement a hybrid 3D CNN LSTM model on fMRI scans
 obtained from the ADHD 200 dataset.
 
-Different models will also be implemented such as Inception V3, AlexNet, and MLP on MRI scans
+Different models are also implemented such as Inception V3, AlexNet, and MLP on MRI scans
 obtained from time points of the fMRI scans.
